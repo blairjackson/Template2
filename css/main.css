@@ -3,6 +3,10 @@
   color: #bdbaba;
   font-family: 'Montserrat', sans-serif;
   letter-spacing: 0.3em;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 html,
